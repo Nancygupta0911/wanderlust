@@ -43,7 +43,7 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
 1. **Clone Repository**  
 ```bash
    
-git clone https://github.com/your-username/wanderlust.git
+git clone https://github.com/Nancygupta0911/wanderlust.git
 cd wanderlust
    ```
 
@@ -65,19 +65,7 @@ cd wanderlust
    ```bash
     npm start
    ```
----
-## 🗂️ Project Structure
----
-wanderlust/
-├── controllers/
-├── models/
-├── routes/
-├── views/ or client/
-├── public/
-├── utils/ or middleware.js
-├── app.js or index.js
-├── cloudConfig.js
-└── package.json
+
 ---
 ## 🧑‍💻 Author
 Nancy Gupta
