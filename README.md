@@ -4,7 +4,9 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
 
 
 ---
-🔗 **Live Demo:** [Click Here](https://project-wanderlust-u6a7.onrender.com/listings)
+# 🔗 Live Demo:
+
+[Click Here](https://project-wanderlust-u6a7.onrender.com/listings)
 
 ---
 
@@ -39,10 +41,10 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
 ## 🛠️ Local Setup
 
 1. **Clone Repository**  
-   ```bash
+```bash
    
-   git clone https://github.com/your-username/wanderlust.git
-   cd wanderlust
+git clone https://github.com/your-username/wanderlust.git
+cd wanderlust
    ```
 
  2. **Install Dependencies**
