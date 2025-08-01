@@ -2,8 +2,7 @@
 
 A full-stack travel listing platform inspired by Airbnb. Users can browse, create, and review listings, all powered by Node.js, Express, MongoDB, EJS (or React), and deployed to Render.
 
-## 🚀 Live Demo  
-[Explore Listings →](https://project-wanderlust-u6a7.onrender.com/listings)
+🔗 **Live Demo:** [Click Here](https://project-wanderlust-u6a7.onrender.com/listings)
 
 ---
 
@@ -41,6 +40,7 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
    ```bash
    git clone https://github.com/your-username/wanderlust.git
    cd wanderlust
+
  2. **Install Dependencies**
 
    ```bash
@@ -61,6 +61,7 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
    ```
 ---
 ## 🗂️ Project Structure
+---
 wanderlust/
 ├── controllers/
 ├── models/
@@ -73,9 +74,11 @@ wanderlust/
 └── package.json
 ---
 ## 🧑‍💻 Author
--Nancy Gupta
--📧 [Gmail](nancygupta0911@gmail.com)
--🌐 [Linkedln](https://www.linkedin.com/in/nancy-gupta-597100288/)
+Nancy Gupta
+
+📧 [Gmail](nancygupta0911@gmail.com)
+
+🌐 [Linkedln](https://www.linkedin.com/in/nancy-gupta-597100288/)
 
 
 
