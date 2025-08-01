@@ -41,24 +41,24 @@ A full-stack travel listing platform inspired by Airbnb. Users can browse, creat
    ```bash
    git clone https://github.com/your-username/wanderlust.git
    cd wanderlust
-2. **Install Dependencies**
+ 2. **Install Dependencies**
 
-```bash
-npm install
-```
-3.**Set Up Environment Variables (.env file):**
-```bash
-MONGO_URI=your_mongodb_connection_string  
-CLOUDINARY_CLOUD_NAME=...  
-CLOUDINARY_API_KEY=...  
-CLOUDINARY_API_SECRET=...  
-MAPBOX_TOKEN=...  
-SESSION_SECRET=...  
-```
-4.**Run the App**
-```bash
-npm start
-```
+   ```bash
+    npm install
+   ```
+  3.**Set Up Environment Variables (.env file):**
+   ```bash
+    MONGO_URI=your_mongodb_connection_string  
+    CLOUDINARY_CLOUD_NAME=...  
+    CLOUDINARY_API_KEY=...  
+    CLOUDINARY_API_SECRET=...  
+    MAPBOX_TOKEN=...  
+    SESSION_SECRET=...  
+   ```
+   4.**Run the App**
+   ```bash
+    npm start
+   ```
 ---
 ## 🗂️ Project Structure
 wanderlust/
@@ -73,9 +73,9 @@ wanderlust/
 └── package.json
 ---
 ## 🧑‍💻 Author
-Nancy Gupta
-📧 [Gmail](nancygupta0911@gmail.com)
-🌐 [Linkedln](https://www.linkedin.com/in/nancy-gupta-597100288/)
+-Nancy Gupta
+-📧 [Gmail](nancygupta0911@gmail.com)
+-🌐 [Linkedln](https://www.linkedin.com/in/nancy-gupta-597100288/)
 
 
 
